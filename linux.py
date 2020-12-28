@@ -1,6 +1,6 @@
 import os
 
-cmd='shutdown'
+cmd='sudo shutdown'
 os.system(cmd)
 
 # for linux
